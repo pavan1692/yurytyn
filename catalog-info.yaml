@@ -53,7 +53,7 @@ metadata:
 spec:
   type: Product
   lifecycle: onboard
-  owner: "group:default/media"
+  owner: "group:default/space1"
   dependsOn:
     - component:null
     - component:null
