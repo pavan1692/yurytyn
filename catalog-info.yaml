@@ -4,7 +4,7 @@ metadata:
   asset_Id: "PMA_1"
   name: "Ready_Vision"
   space_Id: "1"
-  description: "\"HARMAN's Ready Vision technology combines intelligent machine learning algorithms, AR-HUD display technology and selected in-vehicle sensors to orchestrate and visualize display content according to data inputs and users’ need, while adhering to safety standards​. The product addresses consumers' biggest desire to only see the most important information at the right moment within a large field of view, which is in line with OEMs' desire to have a small package volume and a very affordable system overall, which at the same time delivers superior performance and accuracy.  ​​​​​​​Solution benefits include eyes up-and-out, directional audio alerts, contextually and driver aware visual context, small packaging size.\""
+  description: "HARMAN's Ready Vision technology combines intelligent machine learning algorithms, AR-HUD display technology and selected in-vehicle sensors to orchestrate and visualize display content according to data inputs and users’ need, while adhering to safety standards​. The product addresses consumers' biggest desire to only see the most important information at the right moment within a large field of view, which is in line with OEMs' desire to have a small package volume and a very affordable system overall, which at the same time delivers superior performance and accuracy.  ​​​​​​​Solution benefits include eyes up-and-out, directional audio alerts, contextually and driver aware visual context, small packaging size."
   Status: "Active"
   MVP_Phase: ["MVP 1.0"]
   Industry: "automotive"
