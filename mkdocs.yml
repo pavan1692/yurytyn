@@ -1,0 +1,50 @@
+site_asset_Id: "PMA_1"
+site_name: "Ready_Vision"
+site_space_Id: "1"
+site_description: "\"HARMAN's Ready Vision technology combines intelligent machine learning algorithms, AR-HUD display technology and selected in-vehicle sensors to orchestrate and visualize display content according to data inputs and users’ need, while adhering to safety standards​. The product addresses consumers' biggest desire to only see the most important information at the right moment within a large field of view, which is in line with OEMs' desire to have a small package volume and a very affordable system overall, which at the same time delivers superior performance and accuracy.  ​​​​​​​Solution benefits include eyes up-and-out, directional audio alerts, contextually and driver aware visual context, small packaging size.\""
+site_Status: "Active"
+site_MVP_Phase: ["MVP 1.0"]
+site_Industry: "automotive"
+site_Domain: "Maps/Navigation" 
+site_Value_Proportion: "Transforms the windshield and sound system to empower the driver with an enhanced sensory experience that provides real-time visual and audio notifications for traffic, 3D navigation, hazard alerts, and relevant POI information of interest to the driver and vehicle occupants."
+site_UPSs: "a. Accurate information display on time without driver distraction\nb. AR SW + HW turnkey solution\nc. Last mile shake compensation\nd. Samsung display and chipset powered\ne. AI/ML based software framework\nSynergy with ReadyCare\nf. Large FoV\ng. Small package volume\nh. Enable wedgeless windshield\ni. Controllable cost for both SW and HW\nj. Windshield HUD as industrial leap\n"
+site_Product_Variants: "* MVP2 12X4 H   * MVP4 Frit + SW   * MVP3 15 X 5 HW + ARP SW   * MVP5 Full Windshield HW"
+site_Market: 
+site_Region: 
+site_SBU: "IC"
+site_V0_X_PLM_100: "Post V1.0"
+site_HW_SW: "* Hardware * Software"
+site_Cloud: "Other"
+site_ASIL_level: 
+site_Showpad_link: 
+site_Product_manager: ["Khader Hussain","Daryna Lukianenko","Olga Adeyshvili"]
+site_Owner_details: "Ruchi Ahluwalia"
+site_MRD_link: "https://oneharman.sharepoint.com/:w:/s/AutoAutomotiveStrategy-Restricted-Space1-ARWindshield/EZ0IjqYLMhxIqNpd_po2KmEB9Bmw_RP9gBMfrFt1mDoXfw?e=AYP8xC"
+site_PRD_link: "https://oneharman.sharepoint.com/:w:/s/AutoAutomotiveStrategy-Restricted-Space1-ARWindshield/EUjR67Lxuw9JkhklEYtBcWQB_qfcp0DQXn5eZ-LzwJsruQ?e=EcVLQG"
+site_GTM_link: "https://oneharman.sharepoint.com/:p:/s/AutoAutomotiveStrategy-Restricted-Space1-ARWindshield/Eb7JSpIUsKZBpjU11KYJN4sBytI2ImhGQQ-PmKPPbhkVOQ?e=S8xeAh&wdLOR=c84C0FF9E-BC16-3B4C-A1B5-7FE262DA8F43"
+site_Roadmap_link: "https://secure.aha.io/session/new?requested_domain=harmanautomotive"
+site_User_guide: 
+site_Business_Case_Approval: 
+site_Privacy: 
+site_SLA: 
+site_License: 
+site_System_Architecture: 
+site_SDK_link: 
+site_API_link: 
+site_Developer_Guide_Link: 
+site_Customers: 
+site_Maturity: 
+site_Market_Share: 
+site_Related_Products: 
+site_Related_Projects:  
+site_Derived_Projects: 
+site_Competitors: 
+site_price: {}
+site_Business_Model: 
+site_Additional_Info: 
+
+nav:
+  - Asset Metadata: index.md
+
+plugins:
+  - techdocs-core

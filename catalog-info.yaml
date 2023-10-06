@@ -1,0 +1,60 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  asset_Id: "PMA_1"
+  name: "Ready_Vision"
+  space_Id: "1"
+  description: "\"HARMAN's Ready Vision technology combines intelligent machine learning algorithms, AR-HUD display technology and selected in-vehicle sensors to orchestrate and visualize display content according to data inputs and users’ need, while adhering to safety standards​. The product addresses consumers' biggest desire to only see the most important information at the right moment within a large field of view, which is in line with OEMs' desire to have a small package volume and a very affordable system overall, which at the same time delivers superior performance and accuracy.  ​​​​​​​Solution benefits include eyes up-and-out, directional audio alerts, contextually and driver aware visual context, small packaging size.\""
+  Status: "Active"
+  MVP_Phase: ["MVP 1.0"]
+  Industry: "automotive"
+  Domain: "Maps/Navigation" 
+  Value_Proportion: "Transforms the windshield and sound system to empower the driver with an enhanced sensory experience that provides real-time visual and audio notifications for traffic, 3D navigation, hazard alerts, and relevant POI information of interest to the driver and vehicle occupants."
+  UPSs: "a. Accurate information display on time without driver distraction\nb. AR SW + HW turnkey solution\nc. Last mile shake compensation\nd. Samsung display and chipset powered\ne. AI/ML based software framework\nSynergy with ReadyCare\nf. Large FoV\ng. Small package volume\nh. Enable wedgeless windshield\ni. Controllable cost for both SW and HW\nj. Windshield HUD as industrial leap\n"
+  Product_Variants: "* MVP2 12X4 H   * MVP4 Frit + SW   * MVP3 15 X 5 HW + ARP SW   * MVP5 Full Windshield HW"
+  Market: 
+  Region: 
+  SBU: "IC"
+  V0_X_PLM_100: "Post V1.0"
+  HW_SW: "* Hardware * Software"
+  Cloud: "Other"
+  ASIL_level: 
+  Showpad_link: 
+  Product_manager: ["Khader Hussain","Daryna Lukianenko","Olga Adeyshvili"]
+  Owner_details: "Ruchi Ahluwalia"
+  MRD_link: "https://oneharman.sharepoint.com/:w:/s/AutoAutomotiveStrategy-Restricted-Space1-ARWindshield/EZ0IjqYLMhxIqNpd_po2KmEB9Bmw_RP9gBMfrFt1mDoXfw?e=AYP8xC"
+  PRD_link: "https://oneharman.sharepoint.com/:w:/s/AutoAutomotiveStrategy-Restricted-Space1-ARWindshield/EUjR67Lxuw9JkhklEYtBcWQB_qfcp0DQXn5eZ-LzwJsruQ?e=EcVLQG"
+  GTM_link: "https://oneharman.sharepoint.com/:p:/s/AutoAutomotiveStrategy-Restricted-Space1-ARWindshield/Eb7JSpIUsKZBpjU11KYJN4sBytI2ImhGQQ-PmKPPbhkVOQ?e=S8xeAh&wdLOR=c84C0FF9E-BC16-3B4C-A1B5-7FE262DA8F43"
+  Roadmap_link: "https://secure.aha.io/session/new?requested_domain=harmanautomotive"
+  User_guide: 
+  Business_Case_Approval: 
+  Privacy: 
+  SLA: 
+  License: 
+  System_Architecture: 
+  SDK_link: 
+  API_link: 
+  Developer_Guide_Link: 
+  Customers: 
+  Maturity: 
+  Market_Share: 
+  Related_Products: 
+  Related_Projects:  
+  Derived_Projects: 
+  Competitors: 
+  price: {}
+  Business_Model: 
+  Additional_Info: 
+
+  
+  annotations:
+    github.com/project-slug: Sowri03/yurytyn
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: Product
+  lifecycle: onboard
+  owner: "group:default/media"
+  dependsOn:
+    - component:null
+    - component:null
+  subcomponentOf: component:null
