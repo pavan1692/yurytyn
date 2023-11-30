@@ -53,7 +53,7 @@ metadata:
 spec:
   type: Product
   lifecycle: onboard
-  owner: "group:default/space1"
+  owner: "group:default/space8"
   dependsOn:
     - component:null
     - component:null
